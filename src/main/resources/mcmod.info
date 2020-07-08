@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "noarcher",
+    "name": "Archers are Cowards",
+    "description": "Nerfs bows into the ground. Configurable.",
+    "version": "",
+    "mcversion": "",
+    "url": "https://discord.gg/wZTrp53",
+    "updateUrl": "",
+    "authorList": [
+      "Jackiecrazy"
+    ],
+    "credits": "Forge guys, Vazkii, and the open source projects that helped me learn.",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
